@@ -3,7 +3,6 @@ import {MdOutlineMail} from "react-icons/md";
 import {SiWhatsapp} from "react-icons/si";
 
 const Contact = () =>{
-
     return (
         <section id="contact"> 
             <h5> Pongámonos en contacto </h5>
