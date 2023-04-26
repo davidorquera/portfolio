@@ -2,7 +2,7 @@ import react from "react";
 import './header.css'
 import Buttons from "./Buttons";
 import HeaderSocial from "./HearderSocial";
-import David from "../../assets/david.png"
+import David from "../../assets/david_presentacion.svg"
 
 const Header = () =>{
 
