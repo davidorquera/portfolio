@@ -1,4 +1,4 @@
-import {SiJavascript, SiCss3,SiHtml5,SiReact,SiMaterialui,SiPostgresql,SiExpress,SiPassport,SiNodedotjs} from 'react-icons/si';
+import {SiJavascript, SiCss3,SiHtml5,SiReact,SiMaterialui,SiPostgresql,SiExpress,SiPassport,SiNodedotjs,SiNestjs,SiTypescript} from 'react-icons/si';
 import './experience.css'
 
 const Experience = () =>{
@@ -14,6 +14,12 @@ const Experience = () =>{
                         <article className="experience__details"> 
                             <SiJavascript className="experience__details-icon"/>
                             <h4>JAVASCRIPTS</h4>
+                        </article>
+                    </div>
+                    <div className="experience__content">
+                        <article className="experience__details"> 
+                            <SiTypescript className="experience__details-icon"/>
+                            <h4>TYPESCRIPT</h4>
                         </article>
                     </div>
 
@@ -55,7 +61,7 @@ const Experience = () =>{
                     <div className="experience__content">
                         <article className="experience__details"> 
                             <SiPostgresql className="experience__details-icon"/>
-                            <h4>POSTGRESSQL</h4>
+                            <h4>POSTGRESQL</h4>
                         </article>
                     </div>
                     
@@ -69,6 +75,12 @@ const Experience = () =>{
                         <article className="experience__details"> 
                             <SiPassport className="experience__details-icon"/>
                              <h4> PASSPORT </h4>
+                        </article>
+                    </div>
+                    <div className="experience__content">
+                        <article className="experience__details"> 
+                            <SiNestjs className="experience__details-icon"/>
+                             <h4> NEST JS </h4>
                         </article>
                     </div>
                 </div>

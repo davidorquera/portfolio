@@ -1,5 +1,5 @@
 header{
-    height: 105vh;
+    height: 160vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -60,7 +60,7 @@ header{
 
 @media screen and (max-width:1024px) {
     header{
-        height: 100%;
+        height: 165vh;
     }
 }
 

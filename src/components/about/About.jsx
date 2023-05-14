@@ -2,6 +2,7 @@ import './about.css'
 import {FaAward} from 'react-icons/fa'
 import {ImUsers} from 'react-icons/im'
 import {RiFolderUserLine} from 'react-icons/ri'
+import David from "../../assets/david.png"
 
 const About = () =>{
 
@@ -13,7 +14,7 @@ const About = () =>{
             <div className="container about__container">
                 <div className="about__me">
                     <div className="about__me-image">
-                        <img src="https://p5-hall-of-fame.s3.amazonaws.com/enero2022/David+orquera.JPG" alt="David Orquera" />
+                        <img src={David} alt="David Orquera" />
                     </div>
                 </div>
            
