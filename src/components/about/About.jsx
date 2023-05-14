@@ -43,7 +43,7 @@ const About = () =>{
                 Anteriormente, trabajé más de 10 años en IT en el sector BI, esto me permite tener: excelente 
                 capacidad analítica, trabajo en equipo y muy buena comunicación. Algunas de las tareas que realicé: 
                 dialogar con los clientes internos, armar los relevamientos y lideré un equipo de 3 desarrolladores
-                aplicando metodologías ágiles. Crear soluciones eficientes para la toma de decisiones era mi prioridad.
+                aplicando metodologías ágiles. Crear soluciones eficientes para la toma de decisiones es mi prioridad.
                 </p>
                 <a href="#contact" className="btn btn-primary"> Hablemos </a>
             </div>
