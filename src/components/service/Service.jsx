@@ -1,4 +1,3 @@
-import react from "react";
 import './service.css'
 
 const Service = () =>{

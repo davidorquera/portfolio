@@ -1,4 +1,3 @@
-import react from "react";
 import './header.css'
 import Buttons from "./Buttons";
 import HeaderSocial from "./HearderSocial";

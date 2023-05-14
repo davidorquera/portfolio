@@ -60,7 +60,11 @@ header{
 
 @media screen and (max-width:1024px) {
     header{
+<<<<<<< HEAD
         height: 120vh;
+=======
+        height: 100%;
+>>>>>>> 6196a62d3c81f80440bcbb77effced015f8efc7c
     }
 }
 
@@ -68,7 +72,11 @@ header{
 
 @media screen and (max-width:600px) {
     header{
+<<<<<<< HEAD
         height: 110vh;
+=======
+        height: 100%;
+>>>>>>> 6196a62d3c81f80440bcbb77effced015f8efc7c
     }
     .heard__socials, .scroll_down{
         display: none;

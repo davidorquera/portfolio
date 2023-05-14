@@ -2,7 +2,7 @@ import { useState } from "react";
 import './navbar.css';
 import {FaHome} from 'react-icons/fa';
 import {BiUserCircle , BiBook} from 'react-icons/bi';
-import { RiServiceLine } from 'react-icons/ri';
+/*import { RiServiceLine } from 'react-icons/ri';*/
 import { MdOutlineMessage } from 'react-icons/md'
 
 const Navbar = () =>{
