@@ -37,14 +37,15 @@ const About = () =>{
                     </article>
                 </div>
                 <p>
-                Decidí seguir creciendo en el mundo IT. En 4 meses realicé un Coding Bootcamp de más de 800hs que me dio las 
-                herramientas principales para hacer un upgrade de tecnologías y metodologías de trabajo. </p>
-                <p>
-                Anteriormente, trabajé más de 10 años en IT en el sector BI, esto me permite tener: excelente 
-                capacidad analítica, trabajo en equipo y muy buena comunicación. Algunas de las tareas que realicé: 
-                dialogar con los clientes internos, armar los relevamientos y lideré un equipo de 3 desarrolladores
-                aplicando metodologías ágiles. Crear soluciones eficientes para la toma de decisiones es mi prioridad.
+                    Data Engineer con más de 11 años de experiencia en proyectos de BI, 
+                    colaborando en el ciclo de vida del desarrollo de punta a punta. 
+                    Creando visualizaciones principalmente con Microstrategy y Tableau. 
+                    Me considero una persona con gran capacidad y habilidad para resolver 
+                    problemas y conflictos complejos. Aspiró a convertirme en referente y 
+                    profesional completo en proyectos Big Data en entornos Cloud, 
+                    sobre todo con las tecnologías líderes del mercado. 
                 </p>
+
                 <a href="#contact" className="btn btn-primary"> Hablemos </a>
             </div>
             </div>

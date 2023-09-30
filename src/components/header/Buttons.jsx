@@ -1,4 +1,4 @@
-import CV from '../../assets/David_Orquera.pdf';
+import CV from '../../assets/David_Orquera_Data.pdf';
 
 const Buttons = ()=>{
     return (
